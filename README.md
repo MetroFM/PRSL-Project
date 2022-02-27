@@ -1,3 +1,3 @@
 # PRSL-Project
 
-Homework about PRSL
+Homework about the course PRSL(Pattern Recognition and Statistical Learning).
